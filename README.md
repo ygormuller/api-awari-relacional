@@ -1,1 +1,1 @@
-# apiawari
+# api-awari-relacional
